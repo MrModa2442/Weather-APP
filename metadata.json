@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Aqua Sky Weather App",
+  "description": "A weather application that displays current weather conditions and details for selected locations, now with Windy condition support.",
+  "requestFramePermissions": []
+}

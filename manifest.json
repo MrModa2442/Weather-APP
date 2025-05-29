@@ -1,0 +1,30 @@
+{
+  "short_name": "Aqua Sky",
+  "name": "Aqua Sky Weather App",
+  "description": "A modern weather application with real-time data and dynamic backgrounds.",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/apple-touch-icon-180x180.png",
+      "type": "image/png",
+      "sizes": "180x180",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0284c7",
+  "theme_color": "#0ea5e9",
+  "orientation": "portrait-primary"
+}
